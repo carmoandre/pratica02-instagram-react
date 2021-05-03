@@ -20,7 +20,7 @@ export default function App() {
                     </div>
 
                     <div class="pesquisa">
-                    <input type="text" placeholder="Pesquisar" />
+                        <input type="text" placeholder="Pesquisar" />
                     </div>
 
                     <div class="icones">
@@ -41,73 +41,73 @@ export default function App() {
                     <div class="stories">
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/9gag.svg" />
+                                <img src="assets/img/9gag.svg" />
                             </div>
                             <div class="usuario">
-                            9gag
+                                9gag
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/meowed.svg" />
+                                <img src="assets/img/meowed.svg" />
                             </div>
                             <div class="usuario">
-                            meowed
+                                meowed
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/barked.svg" />
+                                <img src="assets/img/barked.svg" />
                             </div>
                             <div class="usuario">
-                            barked
+                                barked
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/nathanwpylestrangeplanet.svg" />
+                                <img src="assets/img/nathanwpylestrangeplanet.svg" />
                             </div>
                             <div class="usuario">
-                            nathanwpylestrangeplanet
+                                nathanwpylestrangeplanet
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/wawawicomics.svg" />
+                                <img src="assets/img/wawawicomics.svg" />
                             </div>
                             <div class="usuario">
-                            wawawicomics
+                                wawawicomics
                             </div>
                         </div>
                     
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/respondeai.svg" />
+                                <img src="assets/img/respondeai.svg" />
                             </div>
                             <div class="usuario">
-                            respondeai
+                                respondeai
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/filomoderna.svg" />
+                                <img src="assets/img/filomoderna.svg" />
                             </div>
                             <div class="usuario">
-                            filomoderna
+                                filomoderna
                             </div>
                         </div>
 
                         <div class="story">
                             <div class="imagem">
-                            <img src="assets/img/memeriagourmet.svg" />
+                                <img src="assets/img/memeriagourmet.svg" />
                             </div>
                             <div class="usuario">
-                            memeriagourmet
+                                memeriagourmet
                             </div>
                         </div>
 
@@ -119,37 +119,37 @@ export default function App() {
                     <div class="posts">
                         <div class="post">
                             <div class="topo">
-                            <div class="usuario">
-                                <img src="assets/img/meowed.svg" />
-                                meowed
-                            </div>
-                            <div class="acoes">
-                                <ion-icon name="ellipsis-horizontal"></ion-icon>
-                            </div>
+                                <div class="usuario">
+                                    <img src="assets/img/meowed.svg" />
+                                    meowed
+                                </div>
+                                <div class="acoes">
+                                    <ion-icon name="ellipsis-horizontal"></ion-icon>
+                                </div>
                             </div>
 
                             <div class="conteudo">
-                            <img src="assets/img/gato-telefone.svg" />
+                                <img src="assets/img/gato-telefone.svg" />
                             </div>
 
                             <div class="fundo">
-                            <div class="acoes">
-                                <div>
-                                <ion-icon name="heart-outline"></ion-icon>
-                                <ion-icon name="chatbubble-outline"></ion-icon>
-                                <ion-icon name="paper-plane-outline"></ion-icon>
+                                <div class="acoes">
+                                    <div>
+                                        <ion-icon name="heart-outline"></ion-icon>
+                                        <ion-icon name="chatbubble-outline"></ion-icon>
+                                        <ion-icon name="paper-plane-outline"></ion-icon>
+                                    </div>
+                                    <div>
+                                        <ion-icon name="bookmark-outline"></ion-icon>
+                                    </div>
                                 </div>
-                                <div>
-                                <ion-icon name="bookmark-outline"></ion-icon>
-                                </div>
-                            </div>
 
-                            <div class="curtidas">
-                                <img src="assets/img/respondeai.svg" />
-                                <div class="texto">
-                                Curtido por <strong>respondeai</strong> e <strong>outras 101.523 pessoas</strong>
+                                <div class="curtidas">
+                                    <img src="assets/img/respondeai.svg" />
+                                    <div class="texto">
+                                    Curtido por <strong>respondeai</strong> e <strong>outras 101.523 pessoas</strong>
+                                    </div>
                                 </div>
-                            </div>
                             </div>
                         </div>
 
